@@ -1,0 +1,1 @@
+g++ Model.cpp Controller.cpp View.cpp Agent.cpp Site.cpp Peasant.cpp Knight.cpp Thug.cpp Farm.cpp Castle.cpp MyState.h main.cpp
